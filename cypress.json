@@ -1,0 +1,6 @@
+{
+
+"baseUrl": "https://www.vivino.com/",
+"testFiles": "**/*.{feature,features}",
+"ignoreTestFiles": ["**/stepDefinitions/*","*.js", "*.md"]
+}
